@@ -1,5 +1,5 @@
 # Project Overview
-This is a Weather-Data-Analysis-Project.Insights findings have been mentioned clearly in the project.
+This is a Weather-Data-Analysis-Project.Insights findings have mentioned clearly in the project.
 .
 
 # Data Collection
