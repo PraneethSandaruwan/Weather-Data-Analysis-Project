@@ -3,7 +3,7 @@ This is a Weather-Data-Analysis-Project.Insights findings have mentioned clearly
 .
 
 # Data Collection
-data were collected from kaggale website.
+data were collected from kaggle website.
 
 # Skills
 python, pandas
